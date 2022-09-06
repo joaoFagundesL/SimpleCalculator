@@ -1,2 +1,2 @@
 # java-simple-calculator
- jframe, swing
+API Swing
